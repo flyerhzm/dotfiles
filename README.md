@@ -8,6 +8,8 @@
 
 [janus](https://github.com/carlhuda/janus)
 
+vimrc.before
+
 ### tmux
 
 tmux.conf
