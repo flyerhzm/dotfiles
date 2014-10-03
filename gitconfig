@@ -1,0 +1,24 @@
+[user]
+	name = Richard Huang
+	email = flyerhzm@gmail.com
+[push]
+	default = simple
+[core]
+	editor = vim -f
+[color]
+  diff = auto
+  status = auto
+  branch = auto
+  interactive = auto
+  ui = auto
+[alias]
+  c = commit -m
+  a = add --all
+  di = diff
+  dic = diff --cached
+  pl = pull
+  ps = push
+  plre = pull --rebase
+  st = status
+  out = log origin..HEAD
+  co = checkout
