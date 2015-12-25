@@ -5,6 +5,7 @@
 	default = simple
 [core]
 	editor = vim -f
+	autocrlf = input
 [color]
   diff = auto
   status = auto
