@@ -12,4 +12,4 @@ vimrc.before
 
 ### tmux
 
-tmux.conf
+[.tmux](https://github.com/gpakosz/.tmux)
